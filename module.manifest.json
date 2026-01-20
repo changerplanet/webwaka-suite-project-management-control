@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka_suite_project_management_control",
+  "class": "suite",
+  "suiteType": "control",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-suite-project-management-control",
+    "suite": "project-management",
+    "created": "2026-01-20",
+    "status": "substrate"
+  }
+}

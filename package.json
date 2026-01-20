@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-project-management-control",
+  "version": "0.1.0",
+  "description": "WebWaka project-management suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
